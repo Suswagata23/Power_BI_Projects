@@ -1,0 +1,1 @@
+In this project we are showing the statistics of employees to better understanding of Attrition of Employees.
